@@ -12,6 +12,8 @@ I've made 3 prior version of this server based on the raspberry pi Zero and the 
 Using the laser cutter at my univeristy I made a final version of the server that is more permanent and asthetically pleasing.
 This is my turret server.
 
+![alt turr img](turret_ex.jpg)
+
 ## Under the Hood
 *  Raspberry Pi Zero  ++ Server
 *  Arduino Pro Mini   +++ Watchdog
