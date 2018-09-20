@@ -13,6 +13,7 @@ Using the laser cutter at my univeristy I made a final version of the server tha
 <p align="center">
   <img src="IMG_0084.JPG" alt="serv"  height="700" />
   <img src="turret_ex.jpg" alt="off"  />
+  <img src="reare.jpg" alt="offst"  />
 </p>
 
 ## Under the Hood
