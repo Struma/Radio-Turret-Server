@@ -11,8 +11,9 @@ I've made 3 prior version of this server based on the raspberry pi Zero and the 
 
 Using the laser cutter at my univeristy I made a final version of the server that is more permanent and asthetically pleasing.
 <p align="center">
-  <img src="IMG_0084.JPG" alt="serv"  width="450" />
-  <img src="rearee.jpg" alt="offst" width="450" />
+  <img src="IMG_0084.JPG" alt="serv"  width="500" />
+  <img src="rearee.jpg" alt="offst" width="500" />
+  <img src="Oled_display/Oled_display.jpg" alt"something" width="500"
 </p>
 
 ## Video
