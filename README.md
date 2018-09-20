@@ -10,9 +10,10 @@ In addition to webscraping, I would like to use the server as a security solutio
 I've made 3 prior version of this server based on the raspberry pi Zero and the overall product was always less than stellar with really low level wireless interfaces. 
 
 Using the laser cutter at my univeristy I made a final version of the server that is more permanent and asthetically pleasing.
-This is my turret server.
-
-![alt turr img](turret_ex.jpg)
+<p align="center">
+  <img src="IMG_0084.JPG" alt="serv"  height="700" />
+  <img src="turret_ex.jpg" alt="off"  />
+</p>
 
 ## Under the Hood
 *  Raspberry Pi Zero  ++ Server
