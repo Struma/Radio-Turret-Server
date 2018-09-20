@@ -15,6 +15,9 @@ Using the laser cutter at my univeristy I made a final version of the server tha
   <img src="rearee.jpg" alt="offst" width="450" />
 </p>
 
+## Video
+[![Alt text](https://img.youtube.com/vi/tIXFSqrmR5g/0.jpg)](https://www.youtube.com/watch?v=tIXFSqrmR5g)
+
 ## Under the Hood
 *  Raspberry Pi Zero  ++ Server
 *  Arduino Pro Mini   +++ Watchdog
