@@ -11,8 +11,7 @@ I've made 3 prior version of this server based on the raspberry pi Zero and the 
 
 Using the laser cutter at my univeristy I made a final version of the server that is more permanent and asthetically pleasing.
 <p align="center">
-  <img src="IMG_0084.JPG" alt="serv"  height="700" />
-  <img src="turret_ex.jpg" alt="off"  />
+  <img src="IMG_0084.JPG" alt="serv"  height="800" />
   <img src="rearee.jpg" alt="offst"  />
 </p>
 
